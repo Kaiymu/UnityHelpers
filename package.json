@@ -2,7 +2,7 @@
 	"displayName": "Pool System",
 	"description": "A pool system handled to store Monobehavior and retrieves them",
 	"name": "com.kaiymu.poolsystem",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"unity": "2018.4",
 	"author": {
 		"name": "Thomas Fontaine",
